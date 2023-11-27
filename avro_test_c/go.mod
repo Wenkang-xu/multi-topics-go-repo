@@ -1,3 +1,3 @@
-module multi_topics/tools/avro_test_c
+module github.com/Wenkang-xu/multi-topics-go-repo/avro_test_c
 
 go 1.19
